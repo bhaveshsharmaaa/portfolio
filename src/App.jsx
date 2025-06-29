@@ -128,7 +128,7 @@ function App() {
   const projects = [
     {
       title: "NEBULA",
-      subtitle: "E-Learning Platform",
+      subtitle: "Social Media App",
       description:
         "Nebula is a modern social media mobile application built with React Native and Expo. It allows users to sign up, share posts, like and comment, and follow others in real time. With a clean UI and fast performance, Nebula delivers a seamless and interactive social experience. It leverages Convex for its backend, ensuring live updates and scalable data handling.",
       technologies: [
@@ -141,12 +141,12 @@ function App() {
         "Clerk",
       ],
       github: "https://github.com/bhaveshsharmaaa/Nebula-App",
-      demo: "https://nebula-demo.vercel.app",
+      demo: "https://expo.dev/accounts/bhavesh2746/projects/Nebula/builds/17254c69-2184-451b-82a5-0db65fd2094a",
       image: "https://via.placeholder.com/600x400/667eea/ffffff?text=NEBULA",
       gradient: "from-purple-500 to-pink-500",
     },
     {
-      title: "ChatSphere",
+      title: "Chat App",
       subtitle: "Real-Time Messaging",
       description:
         "The Chat App is a real-time messaging platform built using the MERN stack (MongoDB, Express, React, Node.js). It enables users to register, log in, and engage in instant one-on-one conversations. With socket.io integration, the app ensures fast and reliable message delivery. A responsive UI and secure authentication provide a smooth and safe user experience.",
@@ -896,7 +896,7 @@ function App() {
               viewport={{ once: true }}
               className="text-gray-600 dark:text-gray-300"
             >
-              © 2024 Bhavesh Sharma. Built with{" "}
+              © 2025 Bhavesh Sharma. Built with{" "}
               <span className="font-semibold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
                 React.js
               </span>
