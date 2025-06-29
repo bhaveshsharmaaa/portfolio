@@ -149,7 +149,7 @@ function App() {
       title: "ChatSphere",
       subtitle: "Real-Time Messaging",
       description:
-        "A modern real-time chat application with end-to-end encryption, file sharing, voice messages, and group chat functionality. Built for seamless communication with beautiful UI and lightning-fast performance.",
+        "The Chat App is a real-time messaging platform built using the MERN stack (MongoDB, Express, React, Node.js). It enables users to register, log in, and engage in instant one-on-one conversations. With socket.io integration, the app ensures fast and reliable message delivery. A responsive UI and secure authentication provide a smooth and safe user experience.",
       technologies: [
         "MERN Stack",
         "Socket.IO",
