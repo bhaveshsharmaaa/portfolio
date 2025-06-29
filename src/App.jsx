@@ -130,14 +130,15 @@ function App() {
       title: "NEBULA",
       subtitle: "E-Learning Platform",
       description:
-        "A comprehensive e-learning ecosystem where instructors create and monetize courses while students access world-class education. Features advanced video streaming, interactive quizzes, progress tracking, and seamless payment integration.",
+        "Nebula is a modern social media mobile application built with React Native and Expo. It allows users to sign up, share posts, like and comment, and follow others in real time. With a clean UI and fast performance, Nebula delivers a seamless and interactive social experience. It leverages Convex for its backend, ensuring live updates and scalable data handling.",
       technologies: [
         "MERN Stack",
-        "Redux",
         "Tailwind CSS",
-        "Cloudinary",
         "Framer Motion",
-        "Stripe",
+        "Convex",
+        "React Native",
+        "Expo",
+        "Clerk",
       ],
       github: "https://github.com/bhaveshsharmaaa/Nebula-App",
       demo: "https://nebula-demo.vercel.app",
@@ -774,7 +775,7 @@ function App() {
                           </p>
                         </div>
                       </motion.div>
-                      <a href="/Bhavesh_Resume.pdf" download>
+                      <a href="/Bhavesh Sharma Resume.pdf" download>
                         <motion.div
                           whileHover={{ scale: 1.02 }}
                           whileTap={{ scale: 0.98 }}
